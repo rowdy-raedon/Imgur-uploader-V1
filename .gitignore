@@ -1,0 +1,16 @@
+# Build directories
+build/
+dist/
+__pycache__/
+*.spec
+
+# Environment
+.env
+credentials.json
+
+# IDE files
+.vscode/
+.idea/
+
+# Installer
+installer/ 
